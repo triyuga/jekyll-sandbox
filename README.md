@@ -1,3 +1,4 @@
+<script type="text/javascript">alert('hi');</script>
 # jekyll-sandbox...
 
 ## Welcome to MC:T1 - Minecraft for Type 1 Diabetes
